@@ -1,0 +1,112 @@
+.Check_Address {
+  display: flex;
+  gap: 10px;
+}
+.Add_To_Cart {
+  background-color: black;
+  color: white;
+}
+.locationcheck {
+  color: red;
+  display: grid;
+ display: flex;
+}
+.locationcheck>div {
+  margin-left: 20px;
+}
+.locationcheck select {
+  height: 20px;
+}
+.locationcheck button {
+  height: 40px;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
+
+
+.Title_of_product {
+  font-family: "TradeGothicLTStd";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 22px;
+  color: #333333;
+}
+.wickcandle {
+  font-size: 18px;
+  font-family: "TradeGothicLTStd";
+  font-style: normal;
+
+  margin-bottom: 0px !important;
+}
+.gmsofcandle {
+  font-family: "TradeGothicLTStd";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  color: #666666;
+  margin-top: 5px;
+}
+.Mix_Match {
+  text-align: left !important;
+
+  font-size: 14px;
+  color: red;
+}
+.Itemname {
+  color: #ccc;
+  font-size: 0.805em;
+  padding-bottom: 0.938em;
+  padding-top: 0.938em;
+}
+.quantity {
+  font-family: "TradeGothicLTStd";
+  font-weight: 300;
+  font-size: 18px;
+  font-weight: 200px;
+  width: 100%;
+}
+.instock {
+  font-family: "TradeGothicLTStd";
+  font-weight: 300;
+  font-size: 18px;
+  font-weight: 200px;
+  width: 100%;
+  color: red;
+}
+.checkpincode {
+  font-family: "TradeGothicLTStd";
+  font-weight: 300;
+  font-size: 18px;
+  font-weight: 200px;
+  width: 100%;
+  color: #666666;
+}
+.checkoutthecandle {
+  background-color: blue;
+
+  border-radius: 4px;
+  font-family: "TradeGothicLTStd";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 22px;
+  color: #ffffff;
+  width: 102px;
+  height: 40px;
+  border: none;
+}
+.CandleImage {
+  position: absolute;
+  right: 10%;
+}
+.imagesproduct {
+  position: relative;
+}
+.vehicledeliver {
+  margin-bottom: 21px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}

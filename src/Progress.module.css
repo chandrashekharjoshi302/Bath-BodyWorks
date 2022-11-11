@@ -1,0 +1,11 @@
+.progress {
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    text-align: center;
+}
+.progress>div>p+span {
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 1px 7px;
+}

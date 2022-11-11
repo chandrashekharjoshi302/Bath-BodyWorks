@@ -1,0 +1,161 @@
+
+.billing_address {
+  border: 1px solid rgb(231, 222, 222);
+  padding: 15px;
+}
+
+.primary {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  padding: 50px;
+}
+
+.orders {
+  border: 1px solid rgb(136, 124, 124);
+  /* width: 60%; */
+  padding: 15px;
+}
+
+.price_deatails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.price_deatails p:nth-child(1) {
+  font-size: 13px;
+  width: 50%;
+
+}
+
+.right_div {
+  width: 25%;
+  font-size: 14px;
+}
+
+.leftDiv {
+  width: 30%;
+}
+
+.inputboxwidth {
+  width: 98%;
+  padding: 7px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.primary h2 {
+  font-weight: 350;
+  letter-spacing: 1px;
+}
+
+.primary h3 {
+  font-weight: 400;
+  letter-spacing: 1px
+}
+
+.giftcards {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  place-items: center;
+}
+
+.radioform {
+  display: flex;
+  place-items: center;
+}
+
+.radioformdiv {
+  display: flex;
+  place-items: center;
+  margin: 20px 0px;
+}
+
+.expirymonthandyear {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 15px 15px 15px
+}
+
+.expirymonthandyear>select {
+  padding: 7px;
+  font-size: 15px;
+  width: 40%;
+}
+
+.warning {
+  color: #1e55c3;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.addressedit {
+  display: flex;
+  justify-content: space-between;
+  place-items: center;
+}
+
+.pricebio {
+  font-size: 11px;
+}
+
+.formdiv {
+  margin-top: 50px;
+}
+
+.submitDiv {
+  display: flex;
+  gap: 60px;
+}
+
+.submitbtn {
+  padding: 15px;
+  background: black;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+.submitbtn:hover {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.promotionDiv {
+  display: flex;
+}
+
+.promotionDiv>input {
+  width: 80%;
+}
+
+.promotionDiv>button {
+  padding: 10px;
+  background: black;
+  color: white
+}
+
+.promotionDiv, .giftdiv>p {
+  font-size: 12px;
+}
+
+.giftdiv>div:first-child>input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 30px;
+
+}
+.giftdiv>div:first-child+div>input {
+  padding: 5px;
+
+}
+
+.giftdiv>button {
+  padding: 10px;
+  background: black;
+  color: white;
+  margin-top: 30px;
+}

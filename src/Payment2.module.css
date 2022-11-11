@@ -1,0 +1,88 @@
+.upper_submitbtnDiv {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    margin-top: 60px
+}
+
+.mainUpperDiv {
+    width: 70%;
+    margin: auto;
+}
+
+.upper_submitbtnDiv button {
+    padding: 8px;
+    background: black;
+    color: white;
+}
+
+.mainUpperDiv .shippingdeatails {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(210, 198, 198);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.mainUpperDiv .leftright {
+    display: flex;
+    /* justify-content:space-between; */
+    margin-top: 20px;
+    gap: 50px;
+    font-weight: 300;
+
+}
+
+.mainUpperDiv .price_deatails {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price_deatails p:nth-child(1) {
+    font-size: 12px;
+    width: 50%;
+
+}
+
+.mainUpperDiv .leftdiv {
+    width: 60%;
+}
+
+.mainUpperDiv .billingdetails {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(210, 198, 198);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+
+.mainUpperDiv .paymentsummary {
+    background: #F2F2F2;
+    height: fit-content;
+    padding: 12px;
+}
+
+.endsubmitbtn {
+    /* width:30%; */
+    margin: auto;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.endsubmitbtn>button {
+    padding: 10px;
+    background: black;
+    color: white;
+}
+
+.mainUpperDiv p {
+    font-size: 12px;
+}
+
+.mainUpperDiv h4,
+h2,
+h3 {
+    font-weight: 400;
+}

@@ -1,0 +1,35 @@
+.SliderCandle{
+    width: 80%;
+    margin: auto;
+    height: 600px;
+    margin-top: 80px; 
+}
+
+.slick-next:before{
+    color: black;
+    font-size: 30px;
+
+}
+.slick-prev:before{
+    color: black;
+    font-size: 30px;
+}
+.slick-arrow slick-next slick-disabled{
+    display: block;
+}
+.candleprice{
+    color: black;
+    font-weight: bold;
+    font-style:normal;
+
+}
+.MoreyourAdore{
+    text-align: center;
+    font-family: Trade Gothic W01 Light, Arial, sans-serif;    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+}
+hr{
+    margin-bottom: 20px;
+}

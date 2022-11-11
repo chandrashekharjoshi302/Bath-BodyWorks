@@ -1,0 +1,22 @@
+.containerThanks{
+    /* width: fit-content;
+    margin: auto; */
+    text-align: center;
+    background-color: #e9ecef;
+    font-size: 40px;
+    padding: 100px;
+}
+.content button{
+    background:black;
+    color: white;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+.content p{
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}

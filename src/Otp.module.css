@@ -1,0 +1,38 @@
+.containerOtp{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+}
+.innerpart{
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     */
+box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    /* padding: 15px; */
+}
+.verifybtn{
+    padding: 15px;
+}
+.verify{
+    padding:10px 35px;
+    background:black;
+    color:white;
+    border-radius: 7px;
+}
+.errorDiv{
+    display: flex;
+    justify-content:center;
+    place-items: center;
+    gap: 5px;
+}
+.errorDiv>a{
+    text-decoration: none;
+    font-size: 12px;
+}
+.inputotp input{
+    padding: 7px;
+    border-radius: 10px;
+}

@@ -1,0 +1,714 @@
+{
+  "offer": [
+    {
+      "id": 1,
+      "name": "Wallflowers Fragrance Refills",
+      "offerPrice": "$3.95",
+      "Description": ""
+    },
+    {
+      "id": 2,
+      "name": "Single Wick Candles",
+      "offerPrice": "2/$20",
+      "Description": ""
+    },
+    {
+      "id": 3,
+      "name": "Select Body Care",
+      "offerPrice": "Buy 3, Get 2 Free",
+      "Description": "Lowest-priced items are free"
+    },
+    {
+      "id": 4,
+      "name": "Hand Soaps",
+      "offerPrice": "6/$26 or 4/$20",
+      "Description": ""
+    },
+    {
+      "id": 4,
+      "name": "Hand Sanitizer 5-Packs",
+      "offerPrice": "$8",
+      "Description": ""
+    },
+    {
+      "id": 5,
+      "name": "Trial Size",
+      "offerPrice": "But 2, Get 1 FREE",
+      "Description": "Lowest-priced items are free"
+    },
+    {
+      "id": 6,
+      "name": "Room Sprays",
+      "offerPrice": "3/$20",
+      "Description": ""
+    }
+  ],
+  "Fresh": [
+    {
+      "id": 10,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4f6ab6e6/hires/026234484.jpg?sh=471",
+      "name": "IMAGES WAIKIKI BEACH COCONUT",
+      "Short_Description": "3-Wick Candle",
+      "Price": "24.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "The scent of Tropical White Coconut, Saltwater Breezes & Sun-Bleached Woods in the room-filling fragrance of our 3-Wick Candle with Essential Oils"
+    },
+    {
+      "id": 11,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa6c7e209/crop/026192327_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "name": "PINEAPPLE SUCCULENT",
+      "Short_Description": "Wallflower Fragrance Plug",
+      "Price": "14.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "This sweet plug's what you get when tropical décor goes boho. Pair with your favorite Wallflowers Fragrance Refill!"
+    },
+    {
+      "id": 12,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw80265a7e/hires/026237014.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Wallflowers Fragrance Refill",
+      "Price": "3.95",
+      "count": 1,
+      "totalP": 0,
+      "Description": "Home fragrance that lasts for weeks and weeks! Pair with a Wallflowers plug and enjoy the scent of Tropical White Coconut, Saltwater Breezes & Sun-Bleached Woods with Essential Oils"
+    },
+    {
+      "id": 13,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw042f78a1/hires/026208712.jpg?sh=471",
+      "name": "BELIZE TROPICAL CABANA",
+      "Short_Description": "Shower Gel",
+      "Price": "13.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "A sweet blend of banana daiquiri, juicy pineapple and golden sands in a rich, bubbly lather lets you get adventurous in the vivid landscapes of Central America."
+    },
+    {
+      "id": 14,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwcaa3f955/hires/026242802.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Single Wick Candle",
+      "Price": "14.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "The scent of Tropical White Coconut, Saltwater Breezes & Sun-Bleached Woods in the room-filling fragrance of our Single Wick Candle with Essential Oils"
+    },
+    {
+      "id": 15,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6697496a/hires/026211086.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Hand Cream",
+      "Price": "6.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods in our deeply moisturizing hand cream that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 16,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f76627c/hires/026205675.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Ultra Shea Body Cream",
+      "Price": "14.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods in our 24-hour moisturizing cream that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 17,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw65d43232/hires/026205595.jpg?sh=471",
+      "name": "HONOLULU SUN",
+      "Short_Description": "Gentle Foaming Hand Soap",
+      "Price": "7.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "A dreamy blend of fresh island coconut, Pacific palm & driftwood in our luxurious foaming soap"
+    },
+    {
+      "id": 18,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2f431751/hires/026205672.jpg?sh=471",
+      "name": "BAHAMAS PASSIONFRUIT & BANANA FLOWER",
+      "Short_Description": "Fine Fragrance Mist",
+      "Price": "15.50",
+      "count": 1,
+      "totalP": 0,
+      "Description": "A fruity blend of passionfruit, pineapple leaves and banana flower in our irresistible, long-lasting mist for island hopping where the beaches are stunning and the waters are crystal clear."
+    }
+  ],
+  "new_body": [
+    {
+      "id": 1,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbd8156d8/hires/026205663.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Shower Gel",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods that takes you to the shores of one of the world's most beautiful beaches"
+    },
+    {
+      "id": 2,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2f431751/hires/026205672.jpg?sh=471",
+      "name": "BAHAMAS PASSIONFRUIT & BANANA FLOWER",
+      "Short_Description": "Fine Fragrance Mist",
+      "Price": "15.50",
+      "count": 1,
+      "Description": "A fruity blend of passionfruit, pineapple leaves and banana flower for island hopping where the beaches are stunning and the waters are crystal clear."
+    },
+    {
+      "id": 3,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3da3d5a1/hires/026206403.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Ultra Shea Body Cream",
+      "Price": "14.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 4,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe9e188bf/hires/026208719.jpg?sh=471",
+      "name": "KEY WEST COCONUT WATER & MELON",
+      "Short_Description": "Super Smooth Body Lotion",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "Relax with this fresh blend of coconut water, saltwater waves and fresh melon and take in the breathtaking sunset of a summer night in the Florida Keys."
+    },
+    {
+      "id": 5,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7f76627c/hires/026205675.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Ultra Shea Body Cream",
+      "Price": "14.50",
+      "count": 1,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 6,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd5259d70/hires/026205671.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Fine Fragrance Mist",
+      "Price": "15.50",
+      "count": 1,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 7,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc8eb7b7e/hires/026205667.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Super Smooth Body Lotion",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 8,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5858f152/hires/026204504.jpg?sh=471",
+      "name": "WAIKIKI BEACH COCONUT",
+      "Short_Description": "Sand & Sea Salt Body Scrub",
+      "Price": "16.50",
+      "count": 1,
+      "Description": "A breezy blend of tropical white coconut, saltwater breezes and sun-bleached woods that takes you to the shores of one of the world's most beautiful beaches."
+    },
+    {
+      "id": 9,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe1551dc0/hires/026204501.jpg?sh=471",
+      "name": "BAHAMAS PASSIONFRUIT & BANANA FLOWER",
+      "Short_Description": "Moisturizing Body Wash",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "A fruity blend of passionfruit, pineapple leaves and banana flower for island hopping where the beaches are stunning and the waters are crystal clear."
+    },
+    {
+      "id": 10,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw21cc1b4a/hires/026204505.jpg?sh=471",
+      "name": "BAHAMAS PASSIONFRUIT & BANANA FLOWER",
+      "Short_Description": "Sand & Sea Salt Body Scrub",
+      "Price": "16.50",
+      "count": 1,
+      "Description": "A fruity blend of passionfruit, pineapple leaves and banana flower for island hopping where the beaches are stunning and the waters are crystal clear."
+    },
+    {
+      "id": 11,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbbd18c69/hires/026239837.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Eau de Parfum",
+      "Price": "39.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 12,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dweaa3da7e/hires/026206405.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Shower Gel",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 13,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8833abfa/hires/026203499.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Fine Fragrance Mist",
+      "Price": "15.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 14,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc9a7a78c/hires/026206401.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Super Smooth Body Lotion",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 15,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8baa165f/hires/026207885.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Creamy Body Scrub",
+      "Price": "16.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    },
+    {
+      "id": 16,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw80d50391/hires/026206407.jpg?sh=471",
+      "name": "HIBISCUS PARADISE",
+      "Short_Description": "Moisturizing Body Wash",
+      "Price": "13.50",
+      "count": 1,
+      "Description": "Let pink hibiscus, juicy guava and coconut take you to your personal tropical oasis."
+    }
+  ],
+  "Banner": [
+    {
+      "id": 19,
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw587b31e7/images/Spring2021/sp_tropical-traditions_SP2_0_hps.jpg",
+      "Description": "Destination: a sinkside tropical oasis. ETA: 20 seconds.",
+      "link": "Shop Hand Soaps"
+    },
+    {
+      "id": 20,
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwd016cff5/images/Spring2021/cndl_all-candles_SP2_0_hps.jpg",
+      "Description": "Go from beach to rainforest, one tropical scent at a time.",
+      "link": "Shop Candles"
+    },
+    {
+      "id": 21,
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw8c46c49b/images/Spring2021/sn_seasonal_SP2_0_hps.jpg",
+      "Description": "These sunshiny sanitizers kill 99.9% of most common germs.",
+      "link": "Shop Hand Sanitizers"
+    },
+    {
+      "id": 22,
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwc5d1454b/images/Spring2021/ebc_ocean-ess_SP2_0_hps.jpg",
+      "Description": "Infused with sea minerals. Inspired by the healing energy of the ocean.",
+      "link": "Shop Aromatherapy"
+    }
+  ],
+  "Category": [
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw9404640f/images/Spring2021/fbc_waikiki-ffm_SP2_0_vn.jpg",
+      "name": "BODY CARE"
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw895db34b/images/Spring2021/cndl_viz-nav-3w_SP2_0_vn.jpg",
+      "name": "3-WICK CANDELS"
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw5fcee1a7/images/Spring2021/diff_pineapple_SP2_0_vn.jpg",
+      "name": "WALLFLOWERS"
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwbc1e31b1/images/Spring2021/sp_fiji-white-sands_SP2_0_vn.jpg",
+      "name": "HAND SOAPS"
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwcb324e2c/images/Spring2021/sn_Watermelon-lemon_SP1_0_vn.jpg",
+      "name": "HAND SANITIZERS"
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw097db0bd/images/Spring2021/xcat_viz-nav_SP2_0_vn.jpg",
+      "name": "NEW ARRIVALS"
+    }
+  ],
+  "atBodyWorks": [
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1615129222.794697817638.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1615061371.847655576464.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1615042821.94612465747.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1614974440.123312752487.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1614963621.837196626827.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1614888025.12768948424.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1614870068.1627989152.jpeg"
+    },
+    {
+      "img": "https://cdn.dashhudson.com/media/640/1614804785.351962846909.jpeg"
+    }
+  ],
+  "candle": [
+    {
+      "id": 1,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbce07eba/crop/026234484_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "fresh"
+    },
+    {
+      "id": 2,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafd2f31b/crop/026234485_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Passionfruit &  Banana ",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "fresh"
+    },
+    {
+      "id": 3,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbcaf3f2f/crop/026234487_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Orange Pineapple Punch",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "floral"
+    },
+    {
+      "id": 4,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6c81cafc/crop/026234486_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Island Margarita",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "floral"
+    },
+    {
+      "id": 5,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw87401270/crop/026242906_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New",
+      "name": "Tropical Spice",
+      "subname": "3-Wick Candle",
+      "Price": 16.5,
+      "type": "sweet"
+    },
+    {
+      "id": 6,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw627bc82a/crop/026234488_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "SunKissed Coconut",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "floral"
+    },
+    {
+      "id": 7,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dweb71671f/crop/026234489_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Emerald Waters",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "sweet"
+    },
+    {
+      "id": 8,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0ded216f/crop/026242802_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "fresh"
+    },
+    {
+      "id": 9,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf5b0edc0/crop/026242803_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Passionfruit & Banana  ",
+      "subname": "Single Wick Candle",
+      "Price": 14.5
+    },
+    {
+      "id": 10,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe09c0740/crop/026235804_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New",
+      "name": "Emered Waters",
+      "subname": "3-Wick waters",
+      "Price": 24.5,
+      "type": "sweet"
+    },
+    {
+      "id": 11,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw62467373/crop/026242804_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 24.5,
+      "type": "floral"
+    },
+    {
+      "id": 12,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb080e60f/crop/026242807_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "fruity"
+    },
+    {
+      "id": 13,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4ad2579a/crop/026242805_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "fresh"
+    },
+    {
+      "id": 14,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw9eab7d02/crop/026241597_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "fruity"
+    },
+    {
+      "id": 15,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwffc75eb5/crop/026236589_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 34.5,
+      "type": "floral"
+    },
+    {
+      "id": 16,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa67e25fa/crop/026234479_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 24.5,
+      "type": "fruity"
+    },
+    {
+      "id": 17,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw350a5d13/crop/026234480_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 44.5,
+      "type": "fresh"
+    },
+    {
+      "id": 18,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0956a38c/crop/026206954_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 34.5,
+      "type": "fruity"
+    },
+    {
+      "id": 19,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw51bdbeeb/crop/026233706_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 34.5,
+      "type": "sweet"
+    },
+    {
+      "id": 20,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc3f9dbcc/crop/026242827_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 24.5,
+      "type": "sweet"
+    },
+    {
+      "id": 21,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw56219377/crop/026236587_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "floral"
+    },
+    {
+      "id": 22,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw05470532/crop/026235803_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "fruity"
+    },
+    {
+      "id": 23,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafa4dfe1/crop/026227399_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 14.5,
+      "type": "sweet"
+    },
+    {
+      "id": 24,
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw07cd1806/crop/026237002_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "title": "New!",
+      "name": "Waikiki Beach Coconut",
+      "subname": "Single Wick Candle",
+      "Price": 34.5,
+      "type": "fresh"
+    }
+  ],
+  "users": [
+    {
+      "id": 501,
+      "Fname": "Lorinda",
+      "Lname": "Reid",
+      "street": "1176 Jacobs Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipcode": 19146,
+      "email": "LorindaDReid@jourrapide.com",
+      "phone": "215-882-8665",
+      "password": "lorinda123"
+    },
+    {
+      "id": 502,
+      "Fname": "Joan",
+      "Lname": "Stanton",
+      "street": "2123 Selah Way",
+      "city": "Gloucester",
+      "state": "Virginia",
+      "zipcode": 23061,
+      "email": "thad1979@hotmail.com",
+      "phone": "804-699-0434",
+      "password": "joan123"
+    },
+    {
+      "id": 503,
+      "Fname": "Leslie",
+      "Lname": "Jones",
+      "street": "4082 Mattson Street",
+      "city": "New York",
+      "state": "New York",
+      "zipcode": 10036,
+      "email": "darlene.gutkows@hotmail.com",
+      "phone": "212-768-7159",
+      "password": "leslie123"
+    },
+    {
+      "id": 504,
+      "Fname": "Derrick",
+      "Lname": "Chan",
+      "street": "2615 Buffalo Creek Road",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zipcode": 37211,
+      "email": "felicia2005@gmail.com",
+      "phone": "615-837-5090",
+      "password": "derrick123"
+    },
+    {
+      "Fname": "",
+      "Lname": "",
+      "email": "",
+      "street": "",
+      "city": "",
+      "state": "",
+      "zipcode": "",
+      "phone": "",
+      "password": "",
+      "id": 505
+    },
+    {
+      "Fname": "Vinesh",
+      "Lname": "Nair",
+      "email": "vinesh.nair31@gmail.com",
+      "street": "Gokul Nagar,Dhanori Rd",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipcode": "411015",
+      "phone": "+918087194441",
+      "password": "123456",
+      "id": 506
+    }
+  ],
+  "cart": [
+    {
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbce07eba/crop/026234484_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "name": "Waikiki Beach Coconut",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "fresh",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafd2f31b/crop/026234485_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "name": "Passionfruit &  Banana ",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "fresh",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbcaf3f2f/crop/026234487_crop.jpg?sw=500&sh=600&sm=fit&q=75",
+      "name": "Orange Pineapple Punch",
+      "subname": "3-Wick Candle",
+      "Price": 24.5,
+      "type": "floral",
+      "quantity": 1,
+      "id": 3
+    }
+  ],
+  "register": [
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "anupam@123",
+      "id": 1
+    },
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "anupam@123",
+      "id": 2
+    },
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "anupam@123",
+      "id": 3
+    },
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "anupam@123",
+      "id": 4
+    },
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "anupam@123",
+      "id": 5
+    },
+    {
+      "email": "anupamkumar827009@gmail.com",
+      "password": "qqqq",
+      "id": 6
+    }
+  ]
+}

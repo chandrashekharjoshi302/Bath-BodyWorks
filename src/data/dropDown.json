@@ -1,0 +1,160 @@
+{
+  "Title": [{
+      "title": "NEW & NOW",
+      "list": [{
+          "listTitle": "NEW & NOW",
+          "sublist": [
+            "New Arrivals",
+            "Men's Shop",
+            "3 Wick Candles",
+            "Best Sellers",
+            "Aromatherapy Shop"
+          ]
+        },
+        {
+          "listTitle": "EXPLORE NEW & NOW",
+          "sublist": []
+        }
+      ],
+      "staticData": ["Shop By Fragrance"]
+    },
+    {
+      "title": "MEN'S",
+      "list": [{
+          "listTitle": "THE MEN'S SHOP",
+          "sublist": [
+            "All Men's Body Care",
+            "Moisturizers",
+            "Body Spray & Cologne",
+            "Home Fragrance",
+            " Hand Soaps & Sanitizers"
+          ]
+        },
+        {
+          "listTitle": "EXPLORE MEN'S",
+          "sublist": []
+        }
+      ],
+      "staticData": ["Get Inspired Shop By Fragrance"]
+    },
+    {
+      "title": "BODY CARE",
+      "list": [{
+          "listTitle": "FEATURED",
+          "sublist": ["New Body Care", "Retired Fragrances", "Travel Size"]
+        },
+        {
+          "listTitle": "BATH & SHOWER",
+          "sublist": [
+            "All Bath & Shower",
+            "Body Wash & Shower Gel",
+            "Bubble Bath",
+            "Bar Soap",
+            "Bath Accessories"
+          ]
+        },
+        {
+          "listTitle": "MOISTURIZERS",
+          "sublist": [
+            " All Moisturizers",
+            "Body Lotion",
+            "Body Cream",
+            "Hand Cream",
+            "Lip Gloss & Balms"
+          ]
+        }, {
+          "listTitle": "FRAGRANCE",
+          "sublist": [
+
+            "All Fragrance",
+            "Body Sprays & Mists",
+            "Perfume & Cologne"
+
+          ]
+        }, {
+          "listTitle": "AROMATHERAPY",
+          "sublist": [
+            "All Aromatherapy",
+            "Body Wash & Shower Gel",
+            "Moisturizers",
+            "Mists & Sprays"
+          ]
+        },
+        {
+          "listTitle": "GIFT SETS",
+          "sublist": [
+            "Body Care Gift Set"
+          ]
+        },
+        {
+          "listTitle": "EXPLORE BODY CARE",
+          "sublist": []
+        }
+      ],
+      "staticData": [
+        "BODY CARE OFFERS",
+        "Buy 3, Get 3 Free All Full-Size Body Care",
+        "Buy 2, Get 1 Free Travel, Hand & Lip Care"
+      ]
+    },
+    {
+      "title": "HAND SOAPS & SANITIZERS ",
+      "list": [{
+          "listTitle": "NEW & NOW",
+          "sublist": [
+            "New Arrivals",
+            "Men's Shop",
+            "Laundry Fragrances",
+            "Best Sellers",
+            "Aromatherapy Shop"
+          ]
+        },
+        {
+          "listTitle": "EXPLORE NEW & NOW",
+          "sublist": ["Best Sellers", "Aromatherapy Shop"]
+        }
+      ],
+      "staticData": ["HAND SOAPS & SANITIZERS OFFERS",
+        "6/$27 or 4/$20 Hand Soaps",
+        " $8 Hand Sanitizer 5-Packs",
+        "3/$15 Hand Sanitizer Sprays"
+      ]
+    },
+    {
+      "title": "GIFTS",
+      "list": [{
+          "listTitle": "NEW & NOW",
+          "sublist": [
+            "New Arrivals",
+            "Men's Shop",
+            "Laundry Fragrances",
+            "Best Sellers",
+            "Aromatherapy Shop"
+          ]
+        },
+        {
+          "listTitle": "EXPLORE NEW & NOW",
+          "sublist": ["Best Sellers", "Aromatherapy Shop"]
+        }
+      ],
+      "staticData": ["HOME FRAGRANCE OFFERS",
+        "$12.95 3-Wick Candles",
+        "5/$25 Wallflowers Fragrance Refills",
+        "2/$22 Single Wick Candles",
+        "3/$22 Room Sprays",
+        "3/$10 Car Fragrance Refills",
+        "EXPLORE HOME FRAGRANCE"
+      ]
+    },
+    {
+      "title": "TOP OFFERS",
+      "list": [
+        {
+          "listTitle": "",
+          "sublist": []
+        }
+      ],
+      "staticData": []
+    }
+  ]
+}

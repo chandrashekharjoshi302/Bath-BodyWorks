@@ -366,17 +366,15 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "fresh"
+      "Price": "$24.50"
     },
     {
       "id": 2,
       "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafd2f31b/crop/026234485_crop.jpg?sw=500&sh=600&sm=fit&q=75",
       "title": "New!",
-      "name": "Passionfruit &  Banana ",
+      "name": "Passionfruit &  Banana Flower",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "fresh"
+      "Price": "$24.50"
     },
     {
       "id": 3,
@@ -384,8 +382,7 @@
       "title": "New!",
       "name": "Orange Pineapple Punch",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "floral"
+      "Price": "$24.50"
     },
     {
       "id": 4,
@@ -393,8 +390,7 @@
       "title": "New!",
       "name": "Island Margarita",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "floral"
+      "Price": "$24.50"
     },
     {
       "id": 5,
@@ -402,8 +398,7 @@
       "title": "New",
       "name": "Tropical Spice",
       "subname": "3-Wick Candle",
-      "Price": 16.5,
-      "type": "sweet"
+      "Price": "$16.50"
     },
     {
       "id": 6,
@@ -411,8 +406,7 @@
       "title": "New!",
       "name": "SunKissed Coconut",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "floral"
+      "Price": "$24.50"
     },
     {
       "id": 7,
@@ -420,8 +414,7 @@
       "title": "New!",
       "name": "Emerald Waters",
       "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "sweet"
+      "Price": "$24.50"
     },
     {
       "id": 8,
@@ -429,16 +422,15 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "fresh"
+      "Price": "$14.50"
     },
     {
       "id": 9,
       "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf5b0edc0/crop/026242803_crop.jpg?sw=500&sh=600&sm=fit&q=75",
       "title": "New!",
-      "name": "Passionfruit & Banana  ",
+      "name": "Passionfruit & Banana Flower",
       "subname": "Single Wick Candle",
-      "Price": 14.5
+      "Price": "$14.50"
     },
     {
       "id": 10,
@@ -446,8 +438,7 @@
       "title": "New",
       "name": "Emered Waters",
       "subname": "3-Wick waters",
-      "Price": 24.5,
-      "type": "sweet"
+      "Price": "$24.50"
     },
     {
       "id": 11,
@@ -455,8 +446,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 24.5,
-      "type": "floral"
+      "Price": "$24.50"
     },
     {
       "id": 12,
@@ -464,8 +454,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "fruity"
+      "Price": "$14.50"
     },
     {
       "id": 13,
@@ -473,8 +462,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "fresh"
+      "Price": "$14.50"
     },
     {
       "id": 14,
@@ -482,8 +470,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "fruity"
+      "Price": "$14.50"
     },
     {
       "id": 15,
@@ -491,8 +478,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 34.5,
-      "type": "floral"
+      "Price": "$34.50"
     },
     {
       "id": 16,
@@ -500,8 +486,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 24.5,
-      "type": "fruity"
+      "Price": "$24.50"
     },
     {
       "id": 17,
@@ -509,8 +494,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 44.5,
-      "type": "fresh"
+      "Price": "$44.50"
     },
     {
       "id": 18,
@@ -518,8 +502,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 34.5,
-      "type": "fruity"
+      "Price": "$34.50"
     },
     {
       "id": 19,
@@ -527,8 +510,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 34.5,
-      "type": "sweet"
+      "Price": "$34.50"
     },
     {
       "id": 20,
@@ -536,8 +518,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 24.5,
-      "type": "sweet"
+      "Price": "$24.50"
     },
     {
       "id": 21,
@@ -545,8 +526,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "floral"
+      "Price": "$14.50"
     },
     {
       "id": 22,
@@ -554,8 +534,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "fruity"
+      "Price": "$14.50"
     },
     {
       "id": 23,
@@ -563,8 +542,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 14.5,
-      "type": "sweet"
+      "Price": "$14.50"
     },
     {
       "id": 24,
@@ -572,8 +550,7 @@
       "title": "New!",
       "name": "Waikiki Beach Coconut",
       "subname": "Single Wick Candle",
-      "Price": 34.5,
-      "type": "fresh"
+      "Price": "$34.50"
     }
   ],
   "users": [
@@ -649,42 +626,5 @@
       "password": "123456",
       "id": 506
     }
-  ],
-  "cart": [
-    {
-      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbce07eba/crop/026234484_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-      "name": "Waikiki Beach Coconut",
-      "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "fresh",
-      "quantity": 1,
-      "id": 1
-    },
-    {
-      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafd2f31b/crop/026234485_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-      "name": "Passionfruit &  Banana ",
-      "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "fresh",
-      "quantity": 1,
-      "id": 2
-    },
-    {
-      "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbcaf3f2f/crop/026234487_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-      "name": "Orange Pineapple Punch",
-      "subname": "3-Wick Candle",
-      "Price": 24.5,
-      "type": "floral",
-      "quantity": 1,
-      "id": 3
-    }
-  ],
-  "register": [
-    {
-      "email": "anupamkumar827009@gmail.com",
-      "password": "anupam@123",
-      "id": 1
-    }
-   
   ]
 }

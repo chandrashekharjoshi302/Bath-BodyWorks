@@ -1,0 +1,102 @@
+.mainDiv {
+ border-bottom: 3px solid #e5e5e5;
+}
+.mainDiv>div{
+  margin: auto;
+  height: 60px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+}
+.mainDiv a {
+  text-decoration: none;
+  color: black;
+}
+.optionDiv {
+  padding: 0px 55px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  border-bottom: 3px solid transparent;
+}
+.optionDiv:hover {
+  border-color: blue;
+}
+.mainHovar {
+  height:320px;
+  display: flex;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  position: absolute;
+  visibility: hidden;
+}
+.mainHovar>div {
+  width:70%;
+  height: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.optionDiv:hover .mainHovar {
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  top: 27%;
+  width: 100%;
+}
+.mainHovar>div>div {
+  box-sizing: border-box;
+  padding: 10px;
+  width:80%;
+  height: 100%;
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.listDiv {
+  width:180px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 10px 10px;
+  margin-top: 10px;
+}
+
+.listDiv:hover {
+  width: 220px;
+  border-left: 4px solid blue;
+  color: steelblue;
+  background-color: whitesmoke;
+  transition: width 1s;
+}
+
+.listDiv>img {
+  width: 12px;
+  height: 12px;
+}
+
+.sublist {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  line-height:3;
+  font-size: 13px;
+  color: #666;
+  margin-left: 15px;
+}
+.staticDiv {
+  font-size: 14px;
+  border-left: 1px solid #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  line-height: 2;
+}
+.staticDiv>div:first-child{
+font-weight: bold;
+}

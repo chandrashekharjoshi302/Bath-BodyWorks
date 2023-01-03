@@ -1,0 +1,19 @@
+.changeinput{
+    height: 25px;
+    width:280px;
+}
+.sizechange{
+    font-size: 40px;
+    margin-left: 14%;
+}
+.changeshipping{
+    font-size: 30px;
+}
+.cointainer{
+    display: flex;
+  gap: 20px;
+  background-color: rgb(249,249,249)
+  ;
+}
+
+

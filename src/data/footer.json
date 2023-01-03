@@ -1,0 +1,61 @@
+{
+  "footerData": [
+    {
+      "id": 1,
+      "head": "CUSTOMER CARE",
+      "subTitle": [
+        "Help & FAQs",
+        "Shipping",
+        "Returns & Exchanges",
+        "Order Tracking",
+        "Corporate Sales & Gifts",
+        "Contact Us"
+      ]
+    },
+    {
+      "id": 2,
+      "head": "MY ACCOUNT",
+      "subTitle": [
+        "Sign In or Sign Up",
+        "Order Tracking",
+        "My Auto Refresh",
+        "My Love-It List"
+      ]
+    },
+    {
+      "id": 3,
+      "head": "DISCOVER",
+      "subTitle": [
+        "About Us",
+        "Careers",
+        "Gift Cards",
+        "Shop by Fragrance",
+        "Product Ingredients",
+        "Get Inspired",
+        "Diversity, Equity & Inclusion"
+      ]
+    },
+    {
+      "id": 4,
+      "head": "FIND US",
+      "subTitle": ["Store Locator", "Global Locations"]
+    }
+  ],
+  "footerSocial": [
+    "https://cdn-icons-png.flaticon.com/512/5968/5968764.png",
+    "https://cdn-icons-png.flaticon.com/512/145/145812.png",
+    "https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1651890522~hmac=0594c696b76a788d09b3a6c16216d36e",
+    "https://cdn-icons.flaticon.com/png/512/3669/premium/3669950.png?token=exp=1651890600~hmac=704dca8b9e51a232bfe7e948fc07e196",
+    "https://cdn-icons-png.flaticon.com/512/187/187210.png",
+    "https://cdn-icons-png.flaticon.com/512/145/145808.png"
+  ],
+  "footerLastData": [
+    "Terms Of Use",
+    "Privacy Policy",
+    "Security Bug Report",
+    "California Privacy Rights",
+    "Do Not Sell My Personal Information (California)",
+    "Transparency in Supply Chains",
+    "Ad Preferences"
+  ]
+}

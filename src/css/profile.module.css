@@ -1,0 +1,147 @@
+.Profile {
+    width: 60%;
+    padding: 20px;
+    margin: auto;
+    background-color: white;
+}
+
+.mainDiv {
+    display: flex;
+    background-image: url("https://cdn1.staticans.com/image/catalog/brandstore/bathandbodyworks/logo/gingham-pattern.svg");
+}
+
+.mainDiv>img {
+    width: 100%;
+}
+
+.titleDiv {
+    border-bottom: 1px solid;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.inputDiv {
+    font-size: 14px;
+    margin-top: 20px;
+    color: darkslategray;
+    display: flex;
+}
+
+.inputDiv>div {
+    text-align: center;
+    padding: 25px;
+    width: 50%;
+}
+
+.inputDiv>div img {
+    width: 100%;
+}
+
+.signin {
+    width: 50%;
+    padding: 25px;
+    border-right: 1px solid #e5e5e5;
+}
+
+.signin>form {
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.signin>form input {
+    height: 30px;
+    width: 92%;
+}
+
+.signin>form label {
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.passDiv {
+    margin-bottom: 10px;
+    border: 1px solid;
+    width: 95%;
+    box-sizing: border-box;
+    padding: 0px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.passDiv>input {
+    width: 55%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.forgot {
+    margin: 20px 10px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.forgot>div {
+    display: flex;
+    align-items: center;
+}
+
+.forgot>div label {
+    margin-top: 0px;
+}
+
+.btn {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #e5e5e5;
+    color: black;
+    border: none;
+}
+
+.lastDiv {
+    text-align: center;
+}
+
+.signupDiv>form {
+    box-sizing: border-box;
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.signupDiv input {
+    margin-top: 5px;
+    width: 93%;
+    height: 30px;
+}
+
+.signupDiv>form>div {
+    margin-top: 30px;
+}
+
+.signupDiv>form>input:last-child {
+    width: 200px;
+    height: 40px;
+    box-sizing: border-box;
+    padding: 0px 10px;
+}

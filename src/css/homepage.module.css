@@ -1,0 +1,106 @@
+
+
+.homepage{
+  width: 80%;
+  margin: auto;
+}
+.offerImg > img {
+  width: 100%;
+}
+.boxesofOffer {
+  margin: 30px 0px;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  background-color: #e5e5e5;
+  padding: 20px 0px;
+}
+.boxesofOffer>h1 {
+  text-align: center;
+  font-family: "Trade Gothic W01 Light";
+  font-weight: 300;
+  font-size: 28px;
+}
+.Shop_Category {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.container{
+  box-sizing: border-box;
+  padding: 0px 10px;
+  display: flex;
+  gap:20px;
+
+}
+.container>div img{
+  width: 180px;
+}
+.fleximage {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+  gap:30px;
+}
+.fleximage a {
+ font-size: 13px;
+ color: black;
+ font-weight: bold;
+}
+.fleximage h4{
+  color: gray;
+ }
+.fleximage>div img{
+width: 100%;
+}
+.fleximage>div {
+  text-align: center;
+  }
+  .Bath_Body{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+
+  /* slider */
+
+  .pro_box {
+   display: flex;
+   flex-direction:column;
+  }
+  .pro_box img{
+    width: 100%;
+   }
+  .pro_box >div{
+    width: 70%;
+    line-height: 1;
+    height: 120px;
+   margin-bottom: 8px;
+   }
+  .Shop_Button {
+    width: 80%;
+    height: 30px;
+    box-sizing: border-box;
+    background-color: #000;
+    color: #fff;
+  }
+  .Shop_Button:hover {
+    background-color:#e5e5e5;
+    color:black;
+    border: none;
+  }
+  .pro_price {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .Pro_title {
+    font-size: 13px;
+  }
+  .mySwiper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }

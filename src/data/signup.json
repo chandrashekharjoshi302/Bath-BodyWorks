@@ -1,0 +1,4 @@
+
+{
+    "signupData":[{"label":"First Name","name":"name"},{"label":"Last Name","name":"lastName"},{"label":"Email","name":"email"},{"label":"Confirm Email","name":"cmEmail"},{"label":"ZIP/Postal Code","name":"zipcode"},{"label":"Phone","name":"mobile"}]
+}

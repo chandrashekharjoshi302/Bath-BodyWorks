@@ -1,0 +1,195 @@
+
+.adDiv {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  justify-content: center;
+  background-position: calc(50% - 7px) calc(50% - 21px);
+  background-size: 28px 28px;
+  text-align: center;
+  overflow: hidden;
+  top: 0;
+  z-index: 112;
+  border-bottom: 1px solid #e5e5e5;
+  background-image: url("https://cdn1.staticans.com/image/catalog/brandstore/bathandbodyworks/logo/gingham-pattern.svg");
+}
+.adDiv > div {
+  background: white;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: steelblue;
+  font-weight: bold;
+}
+.pickupDiv {
+  height: 40px;
+  display: flex;
+  justify-content: right;
+  background-color: whitesmoke;
+}
+.pickupDiv > div > img {
+  width: 30px;
+}
+.pickupDiv > div {
+  width: 16%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  justify-content: space-around;
+  padding-right: 80px;
+  color: steelblue;
+}
+.adDiv img {
+  width: 25%;
+  height: 100%;
+}
+.adDiv a {
+  font-size: 10px;
+}
+.logoNameDiv {
+  display: flex;
+  justify-content: right;
+  padding:10px 100px;
+}
+.logoNameDiv > img {
+  width: 350px;
+}
+.logoNameDiv > div {
+  width: 30%;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: steelblue;
+  padding: 0px 30px;
+}
+.inputDiv {
+  width:60%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid;
+  padding: 0px 10px;
+}
+.inputDiv + div {
+  width: 22%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.inputDiv > div img {
+  width: 30px;
+  height: 20px;
+}
+.hover > img {
+  width: 35px;
+  height: 40px;
+}
+.hoverDiv {
+  visibility: hidden;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.hoverDiv a{
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  line-height: 2;
+  font-weight: 400;
+}
+.hover:hover > .hoverDiv {
+  visibility: visible;
+  width: 200px;
+  top: 17%;
+  left: 73%;
+  line-height: 1.5;
+  font-size: 12px;
+  background: white;
+  padding: 0px 20px;
+  color: black;
+  text-align: left;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+.inputDiv input {
+  background-color: transparent;
+  border: 0px solid;
+  height: 50px;
+  width: 90%;
+  color: #ccc;
+}
+.inputDiv textarea:focus,
+input:focus {
+  outline: none;
+}
+.cart {
+  width: 35px;
+  height: 40px;
+  box-sizing: border-box;
+  background-image: url("https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1651571161245/images/svg-icons/UI-AddToBag.svg?yocs=o_s_");
+  background-repeat: no-repeat;
+  padding: 10px 13px;
+}
+.changeSbar {
+  margin-left: 20px;
+  width: 80%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px dashed;
+  padding: 0px 10px;
+}
+.changeSbar input {
+  background-color: transparent;
+  height: 40px;
+  border: none;
+  width: 100%;
+  color: #ccc;
+}
+.downDiv {
+  display: flex;
+  width: 100%;
+  height:500px;
+  position: absolute;
+  background-color: white;
+}
+.product {
+  display: flex;
+  width: 68%;
+  height: 100%;
+  border-right: 3px dashed #e5e5e5;
+  background-color: white;
+}
+
+ .product>div>div>a+p{
+  font-size: 14px;
+  }
+.Shistory{
+  padding-left: 10px;
+  width: 30%;
+}
+.Shistory>div{
+  width: 80%;
+  line-height: 0.5rem;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  font-size: 14px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.Shistory img{
+  width:20px;
+  height: 20px;
+  
+}
+.Shistory>div>div{
+ margin-right: 15px;
+}

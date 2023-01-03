@@ -1,0 +1,138 @@
+
+{
+    "CATEGORY":[
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw0d301258/bc_fairytaleffm_spr1_vn.jpg",
+            "title":"BODY CARE"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw5429a1c2/cndl_ss%26l_spr2_vn.jpg",
+            "title":"3-WICK CANDLES"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw9fbc191c/wf_spr1_vn.jpg",
+            "title":"WALL FLOWERS"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwaa065e36/sp_spring_spr2_vn.jpg",
+            "title":"HAND SOAPS"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwfae8b362/sn_viz-nav-cleansers_F1_0_vn.jpg",
+            "title":"HAND CLEANSERS"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwdda41aa5/newarrivals_mc_spr2_vn.jpg",
+            "title":"TOP OFFERS"
+        }
+    ],
+    "flexData":[
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw05b25c42/stone.jpg",
+            "title":"The perfect gift for him: Be bold with New Men's Store",
+            "link":"SHOP MEN's BODY CARE"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw1cadf2ae/aromatherapynew.jpg",
+            "title":" Energizing and restful fragrances made with natural essential oils.",
+            "link":"SHOP AROMATHERAPY"
+        },
+        {
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw9b5ed2c0/cat3.jpg",
+            "title":" Clean and Healthy hands",
+            "link":"SHOP HAND SOAPS"
+        }
+       
+        ,{
+            "imgurl":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwb162452f/categoriesimagfour-homepage.jpg",
+            "title":"Happy Always-on fragrance for every room",
+            "link":"SHOP WALL FLOWERS"
+        }
+    ],
+    "lastData":[
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw8f6e14ad/images/Spring2022/xcat_mwts-bopis_sp2_vn.jpg?yocs=o_s_",
+            "title":"easy Shop—it’s fast, free, easy"
+        },
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw644e724c/images/Spring2022/xcat_mwts-sms_sp2_vn.jpg?yocs=o_s_",
+            "title":"Sign up for texts. Sign up for texts"
+        },
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw41a3328c/images/Spring2022/xcat_mwts-email_sp2_vn.jpg?yocs=o_s_",
+            "title":"Sign up for emails"
+        },
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw611329aa/images/Spring2022/xcat_mwts-autorefresh_sp2_vn.png?yocs=o_s_",
+            "title":"Check out Auto Refresh"
+        },
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw7500932b/images/Spring2022/xcat_mwts-dei_sp2_vn.jpg?yocs=o_s_",
+            "title":"See how everyone belongs"
+        },
+        {
+            "imgurl":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw4dd3c5f1/images/Spring2022/xcat_mwts-returns_sp2_vn.jpg?yocs=o_s_",
+            "title":"See our return policy"
+        }
+    ],
+    "SlideData":[
+        {
+            "head":"Limited time only!",
+            "text":"3-week candles",
+            "price":"$12.95"
+        },
+        {
+            "head":"Buy, 3 Get 3 Free",
+            "text":"All full-size Body Care",
+            "price":""
+        },
+        {
+            "head":"",
+            "text":"Wallflowers Fragrance Refills",
+            "price":"5/$25"
+        },
+        {
+            "head":"",
+            "text":"Mothers Day Gift",
+            "price":"Under $15"
+        },
+        {
+            "head":"",
+            "text":"Hand Soap",
+            "price":"6/$27 or 4/$20"
+        },
+        {
+            "head":"",
+            "text":"Single Wick Candles",
+            "price":"2/$22"
+        },
+        {
+            "head":"",
+            "text":"Hand Sanitizer 5-Packs",
+            "price":"$8"
+        },
+        {
+            "head":"Buy 2 Get 1 FREE",
+            "text":"Travel, Hand & Lip Care",
+            "price":""
+        }
+    ],
+    "searchData":[
+        "a thousand wishes",
+        "fairytale"
+        ,"honeysuckle"
+        ,"into the night"
+        ,"japanese cherry blossom"
+        ,"vanilla"
+       ,"black cherry merlot"
+      ,"champagne toast"
+     ,"in the stars",
+        "mist"],
+        "SLIDERDATA":["https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxOTUwMDIzLjc3NTE5MjEyOTA1LmpwZWc=.jpg?w=640&h=640&fit=cover",
+        "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxOTMyMDk1Ljk5MDAzNTIzMjQuanBlZw==.jpg?w=640&h=640&fit=cover",
+        "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxODYzNjcyLjMwNzk3NTYwNzQ3LmpwZWc=.jpg?w=640&h=640&fit=cover",
+        "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxODQ3NDg0LjY5NDg0MzUyMDE5OC5qcGVn.jpg?w=640&h=640&fit=cover",
+    "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxNzc3MjI4LjE3MzU2MTg1MDk2LmpwZWc=.jpg?w=640&h=640&fit=cover",
+    "https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxNzU5MjkzLjczNTgyNjUyNzEwNi5qcGVn.jpg?w=640&h=640&fit=cover","https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxNzA0MjIxLjg3MzY0Mzk5MDkwMC5qcGVn.jpg?w=640&h=640&fit=cover","https://images.dashhudson.com/aHR0cHM6Ly9jZG4uZGFzaGh1ZHNvbi5jb20vbWVkaWEvZnVsbC8xNjUxNjc1ODQyLjYzMTA5MjM1ODQ3OC5qcGVn.jpg?w=640&h=640&fit=coverf"]
+
+}

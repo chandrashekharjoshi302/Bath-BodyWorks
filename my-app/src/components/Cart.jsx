@@ -2,9 +2,10 @@ import React from "react";
 import styles from "./AddtoCart.module.css";
 import AddtoCart from "./AddtoCart";
 import { useDispatch, useSelector } from "react-redux";
+
 import { getCartData } from "../redux/action";
 import { useEffect } from "react";
-import pic from "./Screenshot 2022-05-05 231416.png";
+import pic from "./Screenshot2.png";
 import { Link, useNavigate } from "react-router-dom";
 
 

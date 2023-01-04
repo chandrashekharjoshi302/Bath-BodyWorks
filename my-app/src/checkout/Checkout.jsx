@@ -1,12 +1,12 @@
-// import React, {useEffect,useState} from 'react'
+
 import CountryDetail from "./CountryDetail";
 import Statedetail from "./Statedetail";
 import { useSelector } from "react-redux";
 import styles from "../components/AddtoCart.module.css";
-import pic from "./Screenshot 2022-05-08 123124.png";
-// import axios from '.axios';
+import pic from "./Screenshot-2.png";
+
 import "./Checkout.css";
-//
+
 import { Link } from "react-router-dom";
 function Cart() {}
 

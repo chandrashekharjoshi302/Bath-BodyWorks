@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch } from "react-redux";
 import styles from "./ProductsCard.module.css";
-import pic from "./Screenshot 2022-05-04 121215.png";
+import pic from "./Screenshot1.png";
 import { addProducts } from "../redux/action";
 import { Link } from "react-router-dom";
 

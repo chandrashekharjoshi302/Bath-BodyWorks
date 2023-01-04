@@ -3,14 +3,14 @@
 
 BathBodyWorks is a popular American Brand. BathBodyWorks is a retail store chain which came in E-commerce business to sell their products. This Company sells products like lotions, soap, daily perfumes,candles,etc. This company's name itself gives an idea about their products. This Company is an Unicorn Company, and It is globally connected. 
 
-A Collaborative project built by a team of 5 executed in 7 days.
+A Individual project built by Me in 4 days.
 
 
 ![Logo](https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw3c999621/images/svg-icons/Logos-main.svg?yocs=o_s_)
 
 ## Demo  🎥
 
-- Deployed Link:- [Enjoy the Experience](https://clone-of-bathandbodyworks.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://63b4fed9da28e9102de77106--venerable-meringue-87568a.netlify.app/)
 
 In the project directory, you can run:
 
@@ -72,14 +72,6 @@ See the section about deployment for more information.
 **login Page**
 
 ![Logo](https://i.ibb.co/tKF3zZF/bbd2.png)
-
-## Contributors  😇
-
-- 👤 [Rushikesh Gaikwad](https://github.com/rushig777)
-- 👤 [Anupam kumar](https://github.com/hlv-kakashi)
-- 👤 [Anand biniya](https://github.com/Anandbiniya)
-- 👤 [Gajraj shekhawat](https://github.com/Gajraj-shekhawat)
-- 👤 [Vivek kumar](https://github.com/vivekkumar1994)
 
 
 
